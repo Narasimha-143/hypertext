@@ -1,4 +1,4 @@
 # hypertext
-creating web page by html
-It describes more about git and github
-Tutor is G.Narasimha rao
+creating first web page by using html.
+It describes more about git and github.
+Tutor is Golla Narasimha Rao.
