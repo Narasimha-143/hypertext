@@ -1,3 +1,4 @@
+import java.util.*;
 import java.util.Stack;
 public class PreStack {
     public static void main(String[] args) {
